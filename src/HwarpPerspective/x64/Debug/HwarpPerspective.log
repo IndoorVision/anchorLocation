@@ -1,0 +1,11 @@
+﻿  HwarpPerspective.cpp
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(81): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(90): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(92): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\hwarpperspective\hwarpperspective.cpp(96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  HwarpPerspective.vcxproj -> E:\LJF\2020\Program\C\testProgram\src\HwarpPerspective\.\..\..\bin\x64\Debug\HwarpPerspective.exe
+  HwarpPerspective.vcxproj -> .\..\..\bin\x64\Debug\HwarpPerspective.pdb (Full PDB)

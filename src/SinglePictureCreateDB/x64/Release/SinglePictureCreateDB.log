@@ -1,0 +1,56 @@
+﻿  stdafx.cpp
+  pointsLogRW.cpp
+pointsLogRW.cpp(24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+pointsLogRW.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+pointsLogRW.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+pointsLogRW.cpp(79): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+  pointsLogRW.cpp(79): note: 此参数用作缓冲区大小
+pointsLogRW.cpp(79): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“double *”
+  pointsLogRW.cpp(79): note: 此参数用作缓冲区大小
+pointsLogRW.cpp(79): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“double *”
+  pointsLogRW.cpp(79): note: 此参数由转换说明符使用
+pointsLogRW.cpp(79): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 6 拥有了类型“double *”
+  pointsLogRW.cpp(79): note: 此参数用作缓冲区大小
+pointsLogRW.cpp(79): warning C4473: “sscanf_s”: 没有为格式字符串传递足够的参数
+  pointsLogRW.cpp(79): note: 占位符和其参数预计 10 可变参数，但提供的却是 7 参数
+  pointsLogRW.cpp(79): note: 缺失的可变参数 8 为格式字符串“%lf”所需
+pointsLogRW.cpp(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+pointsLogRW.cpp(108): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+pointsLogRW.cpp(110): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+  shootPictureProcessor.cpp
+e:\ljf\2020\program\c\testprogram\src\singlepicturecreatedb\SurfExtractor.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+shootPictureProcessor.cpp(75): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(76): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(120): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\direct.h(108): note: 参见“mkdir”的声明
+shootPictureProcessor.cpp(151): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(189): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(218): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(285): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(155): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\direct.h(108): note: 参见“mkdir”的声明
+shootPictureProcessor.cpp(301): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\direct.h(108): note: 参见“mkdir”的声明
+shootPictureProcessor.cpp(327): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(381): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(417): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(474): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(507): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(524): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+shootPictureProcessor.cpp(533): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SinglePictureCreateDB.cpp
+e:\ljf\2020\program\c\testprogram\src\singlepicturecreatedb\SurfExtractor.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  surf.cpp
+  SurfExtractor.cpp
+e:\ljf\2020\program\c\testprogram\src\singlepicturecreatedb\SurfExtractor.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+SurfExtractor.cpp(29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+SurfExtractor.cpp(30): warning C4244: “/=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  All 1518 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SinglePictureCreateDB.vcxproj -> E:\LJF\2020\Program\C\testProgram\src\SinglePictureCreateDB\.\..\..\bin\x64\Release\SinglePictureCreateDB.exe
+  SinglePictureCreateDB.vcxproj -> .\..\..\bin\x64\Release\SinglePictureCreateDB.pdb (Full PDB)

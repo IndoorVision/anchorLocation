@@ -1,0 +1,15 @@
+﻿  changeName.cpp
+d:\library\opencv\opencv2.4.13\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+changeName.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+changeName.cpp(45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+changeName.cpp(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+changeName.cpp(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+changeName.cpp(123): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  3 of 430 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  changeName.vcxproj -> E:\LJF\2020\Program\C\testProgram\src\changeName\.\..\..\bin\x64\Release\changeName.exe
+  changeName.vcxproj -> .\..\..\bin\x64\Release\changeName.pdb (Full PDB)

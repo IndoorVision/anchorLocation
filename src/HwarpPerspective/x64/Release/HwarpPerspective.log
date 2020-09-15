@@ -1,0 +1,16 @@
+﻿  HwarpPerspective.cpp
+HwarpPerspective.cpp(76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+HwarpPerspective.cpp(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HwarpPerspective.cpp(81): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HwarpPerspective.cpp(89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HwarpPerspective.cpp(90): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HwarpPerspective.cpp(91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HwarpPerspective.cpp(92): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HwarpPerspective.cpp(96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  5 of 414 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HwarpPerspective.vcxproj -> E:\LJF\2020\Program\C\testProgram\src\HwarpPerspective\.\..\..\bin\x64\Release\HwarpPerspective.exe
+  HwarpPerspective.vcxproj -> .\..\..\bin\x64\Release\HwarpPerspective.pdb (Full PDB)

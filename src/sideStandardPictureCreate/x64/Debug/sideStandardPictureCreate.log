@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  sideStandardPictureCreate.cpp
+d:\library\opencv\opencv2.4.13\opencv\build\install\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(42): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(58): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(82): warning C4305: “参数”: 从“int”到“char”截断
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(82): warning C4309: “参数”: 截断常量值
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(113): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(142): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(167): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(168): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\ljf\2020\program\c\testprogram\src\sidestandardpicturecreate\sidestandardpicturecreate.cpp(169): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  sideStandardPictureCreate.vcxproj -> E:\LJF\2020\Program\C\testProgram\src\sideStandardPictureCreate\.\..\..\bin\x64\Debug\sideStandardPictureCreate.exe
+  sideStandardPictureCreate.vcxproj -> .\..\..\bin\x64\Debug\sideStandardPictureCreate.pdb (Full PDB)
