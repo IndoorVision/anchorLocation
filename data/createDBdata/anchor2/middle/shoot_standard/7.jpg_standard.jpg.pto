@@ -1,0 +1,23 @@
+# Hugin project file
+#hugin_ptoversion 2
+p f2 w9664 h7345 v50  E14.9366 R0 S0,9664,267,7078 n"TIFF_m c:LZW r:CROP"
+m g1 i0 f0 m2 p0.00784314
+
+# image lines
+#-hugin  cropFactor=1
+i w10328 h7760 f0 v50 Ra0 Rb0 Rc0 Rd0 Re0 Eev14.9366336120219 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 j0 a0 b0 c0 d0 e0 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"7.jpg"
+#-hugin  cropFactor=1
+i w10328 h7760 f0 v=0 Ra=0 Rb=0 Rc=0 Rd=0 Re=0 Eev14.9366336120219 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 j0 a=0 b=0 c=0 d=0 e=0 g=0 t=0 Va=0 Vb=0 Vc=0 Vd=0 Vx=0 Vy=0  Vm5 n"standard.jpg"
+
+
+v p1 r1 y1
+
+# automatically generated control points
+c n0 N1 x742.389221 y738.444641 X920.795227 Y517.635010 t0
+c n0 N1 x634.142456 y880.762207 X612.800781 Y943.286804 t0
+c n0 N1 x830.039429 y843.337891 X1192.583740 Y813.330872 t0
+c n0 N1 x755.285706 y855.263733 X971.695007 Y855.785889 t0
+c n0 N1 x714.892944 y893.830383 X853.374207 Y973.660461 t0
+c n0 N1 x621.259949 y793.248596 X570.998230 Y689.388245 t0
+
+# :-)

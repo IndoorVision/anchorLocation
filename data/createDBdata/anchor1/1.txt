@@ -1,0 +1,12 @@
+文件夹 PATH 列表
+卷序列号为 18A5-75C6
+anchor3
+├─left
+│  ├─resizeIMG
+│  └─shoot_standard
+├─middle
+│  ├─resizeIMG
+│  └─shoot_standard
+└─right
+    ├─resizeIMG
+    └─shoot_standard
